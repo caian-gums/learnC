@@ -8,3 +8,4 @@ clean:
 	rm -f ex06
 	rm -f ex07
 	rm -f ex08
+	rm -f ex09
