@@ -6,3 +6,4 @@ clean:
 	rm -f ex04
 	rm -f ex05
 	rm -f ex06
+	rm -f ex07
