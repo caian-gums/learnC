@@ -10,3 +10,5 @@ clean:
 	rm -f ex08
 	rm -f ex09
 	rm -f ex10
+	rm -f ex11
+	rm -f ex12
