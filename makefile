@@ -1,5 +1,9 @@
 CFLAGS=-Wall -g
 
+all: ex19
+
+ex19: object.o
+
 clean:
 	rm -f ex01
 	rm -f ex03
@@ -19,3 +23,4 @@ clean:
 	rm -f ex17
 	rm -f db.dat
 	rm -f ex18
+	rm -f ex19
